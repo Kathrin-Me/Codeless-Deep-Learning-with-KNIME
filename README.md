@@ -2,7 +2,7 @@
 
 <a href="https://www.packtpub.com/product/codeless-deep-learning-with-knime/9781800566613"><img src="https://static.packt-cdn.com/products/9781800566613/cover/smaller" alt=" Codeless Deep Learning with KNIME" height="256px" align="right"></a>
 
-This is the code repository for [Codeless Deep Learning with KNIME](https://www.packtpub.com/product/codeless-deep-learning-with-knime/9781800566613), published by Packt.
+This is the code repository for [Codeless Deep Learning with KNIME](https://www.packtpub.com/product/codeless-deep-learning-with-knime/9781800566613), published by Packt. All workflows are also available on the [KNIME Hub](https://kni.me/s/yMp8GBkT0Xwzx5X2).
 
 **Build, train, and deploy various deep neural network architectures using KNIME Analytics Platform**
 
